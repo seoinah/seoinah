@@ -4,7 +4,7 @@
 [![blog](https://img.shields.io/badge/-Blog-white?style=flat-square)](https://seoinah.github.io//)
 [![gmail](https://img.shields.io/badge/ireh2650@gmail.com-grey?style=flat-square&logo=gmail)](mailto://ireh2650@gmail.com/)
 
-[Resume]()
+[SeoInAh's Blog](https://seoinah.github.io/)
 
 I'm **front-end engineer** who mainly uses React and Typescript
 <!--
